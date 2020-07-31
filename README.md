@@ -3,9 +3,9 @@
 # 👋 
 Hey, I'm Josh. I spent six years doing product design and development with startups in Singapore and New York City before putting down roots in middle Tennessee.
 
-Over the years, I've put my expertise to work as a hired gun, doing freelance design and development work for various clients and agencies. I currently spend my working hours disrupting the toxic money cultue with the folks at [Ramsey Solutions](https://www.ramseyinhouse.com).
+Over the years, I've put my expertise to work as a hired gun, doing freelance design and development work for various clients and agencies. I currently spend my working hours disrupting the toxic money cultue with the fine folks at [Ramsey Solutions](https://www.ramseyinhouse.com).
 
-When I'm not slingin' `divs` and takin' names, you can probably find me hanging out with my beautiful wife or one brood. In my spare time, I like to tinker with [side hustles](https://www.zendstation.com) and [bake bread from scratch](https://www.instagram.com/the_cheeky_baker).
+When I'm not slingin' `divs` and takin' names, you can probably find me hanging out with my beautiful wife and our brood. In my spare time, I like to tinker with [side hustles](https://www.zendstation.com) and [bake bread from scratch](https://www.instagram.com/the_cheeky_baker).
 
 ### Stalk Me
 - [Share a giggle](https://www.twitter.com/joshkennedy) about things I find funny
